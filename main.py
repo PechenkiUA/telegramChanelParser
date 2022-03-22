@@ -70,8 +70,8 @@ def parseAll(url):
     global nameChanel
     # soup = domAll('https://t.me/s/prikotik')
     soup = domAll(url)
-    # path = './%s/' % nameChanel
-    path = './%s/' % 'zalip'
+    path = './%s/' % nameChanel
+  
 
     # exit()
     # посилання на попередню сторінку
